@@ -1,4 +1,4 @@
-<h3 align="center">Mostly coding in C++, because i'm not a pu**y</h3>
+<h3 align="center">Mostly coding in C++, because i'm not a f**king pu**y</h3>
 
 - 🔭 I’m currently working on **Acaer**, a Pixel-Simulated indie game
 
