@@ -2,6 +2,8 @@
 <h3 align="center">Mostly coding in C++, because i'm not a pu**y</h3>
 
 - 🔭 I’m currently working on [Acaer](https://github.com/FlexHaufen/acaer)
+- ♟️ Also working on [chez](https://github.com/FlexHaufen/chez)
+  
 
 
 <h3 align="left">Languages and Tools:</h3>
