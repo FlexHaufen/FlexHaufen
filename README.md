@@ -1,5 +1,6 @@
-<h1 align="center">FlexHaufen</h1>
-<h3 align="center">Mostly coding in C++, because i'm not a pu**y</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+code&size=30&pause=1000&color=A61ECA&random=false&width=435&lines=FlexHaufen)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+code&size=16&color=B44ECA&repeat=false&random=false&width=435&lines=Mostly+coding+in+C%2B%2B%2C+because+i'm+not+a+pu**y)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [Acaer](https://github.com/FlexHaufen/acaer)
 - ♟️ Also working on [chez](https://github.com/FlexHaufen/chez)
