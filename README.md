@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+code&size=16&color=B44ECA&repeat=false&random=false&width=435&lines=Mostly+coding+in+C%2B%2B%2C+because+i'm+not+a+pu**y)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [Acaer](https://github.com/FlexHaufen/acaer)
-- ♟️ Also working on [chez](https://github.com/FlexHaufen/chez)
+- 🚀 I’m currently working on [Lychee](https://github.com/FlexHaufen/Lychee)
+- 🎮 Also working on [Acaer](https://github.com/FlexHaufen/acaer)
   
 
 
