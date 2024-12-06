@@ -1,8 +1,8 @@
 <!--https://github.com/rzashakeri/beautify-github-profile?tab=readme-ov-file-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+code&size=30&pause=1000&color=A61ECA&random=false&width=435&lines=FlexHaufen)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+code&size=30&pause=1000&color=A61ECA&random=false&width=435&lines=FlexHaufen)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+code&size=16&color=B44ECA&repeat=false&random=false&width=435&lines=Mostly+coding+in+C%2B%2B%2C+because+i'm+not+a+pu**y)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+code&size=16&color=B44ECA&repeat=false&random=false&width=435&lines=Mostly+coding+in+C%2B%2B%2C+because+i'm+not+a+pu**y)
  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/flexhaufen) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/flexhaufen) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20069805) 
 
